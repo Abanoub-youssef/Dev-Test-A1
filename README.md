@@ -34,31 +34,31 @@ This repository contains comprehensive testing artifacts for the Automation Exer
 
 The following tree diagram represents the high-level file and directory structure of the project:
 
-\`\`\`
-├── 📁 Evidence/ # Test evidence and screenshots
-├── 📁 QA_Project_Docs/ # Project documentation
-│ ├── Epic&User Stories.docx
-│ ├── Project_Overview.docx
-│ ├── Project_Reading.docx
-│ ├── Test_Strategy.docx
-│ └── mockup.pdf
-├── 📁 Text_Reports/ # Test execution reports
-│ ├── Summary_Report.docx
-│ ├── API_Run_Report.json
-│ ├── Bug_Reports_Export.xlsx
-│ └── Traceability_Matrix/
-├── 📁 Reports/ # Comprehensive test reports
-│ ├── Full_Execution_Report.docx
-│ └── Test_Completion_Report.docx
-├── 📁 postman/ # API testing artifacts
-│ ├── globals/ # Postman global variables
-│ └── API_Test_Collection.postman_collection.json
-├── 📁 AutomationExercise/ # Test automation framework
-├── 📄 CartManagement.feature # BDD feature files
-├── 📄 sign-up&contact-use_BDD.txt # BDD scenarios
-├── 📄 pom.xml # Maven configuration
-└── 📄 README.md # This file
-\`\`\`
+
+├── 📁 Evidence/ # Test evidence and screenshots  
+├── 📁 QA_Project_Docs/ # Project documentation  
+│ ├── Epic&User Stories.docx  
+│ ├── Project_Overview.docx  
+│ ├── Project_Reading.docx  
+│ ├── Test_Strategy.docx  
+│ └── mockup.pdf  
+├── 📁 Text_Reports/ # Test execution reports  
+│ ├── Summary_Report.docx  
+│ ├── API_Run_Report.json  
+│ ├── Bug_Reports_Export.xlsx  
+│ └── Traceability_Matrix/  
+├── 📁 Reports/ # Comprehensive test reports  
+│ ├── Full_Execution_Report.docx  
+│ └── Test_Completion_Report.docx  
+├── 📁 postman/ # API testing artifacts  
+│ ├── globals/ # Postman global variables  
+│ └── API_Test_Collection.postman_collection.json  
+├── 📁 AutomationExercise/ # Test automation framework  
+├── 📄 CartManagement.feature # BDD feature files  
+├── 📄 sign-up&contact-use_BDD.txt # BDD scenarios  
+├── 📄 pom.xml # Maven configuration  
+└── 📄 README.md # This file  
+
 
 
 ## Test Artifacts Description
