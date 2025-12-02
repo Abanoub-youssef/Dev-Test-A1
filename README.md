@@ -6,7 +6,7 @@ This repository contains comprehensive testing artifacts for the Automation Exer
 **Testing Scope:**
 - Manual UI Testing (BDD scenarios)
 - API Testing (Postman collections)
-- Test Automation
+- Test Automation https://github.com/Abanoub-youssef/GP_Automation_G4
 - Database Testing
 - Test Documentation and Reporting
 
