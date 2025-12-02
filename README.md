@@ -85,7 +85,7 @@ The following tree diagram represents the high-level file and directory structur
 - **[API_Test_Collection.postman_collection.json](./postman/API_Test_Collection.postman_collection.json)** - Postman API test collection  
 - **[AutomationExercise/](./AutomationExercise)** - Selenium/TestNG automation framework  -https://github.com/Abanoub-youssef/GP_Automation_G4 | https://github.com/Abanoub-youssef/GP_CUCUMBER
 - **[postman/globals/](./postman/globals)** - Postman environment configurations  
-- **[Database test cases ]
+- **[Database test cases ] https://github.com/Abanoub-youssef/Dev-Test-A1/blob/main/Abanoub_contactus_signup_db_test_cases.xlsx
   
 ## 🚀 How to Use This Repository
 
