@@ -83,7 +83,7 @@ The following tree diagram represents the high-level file and directory structur
 ### 🤖 Automation & API Testing
 - **[pom.xml](./pom.xml)** - Maven dependencies for automation framework  
 - **[API_Test_Collection.postman_collection.json](./postman/API_Test_Collection.postman_collection.json)** - Postman API test collection  
-- **[AutomationExercise/](./AutomationExercise)** - Selenium/TestNG automation framework  
+- **[AutomationExercise/](./AutomationExercise)** - Selenium/TestNG automation framework  -https://github.com/Abanoub-youssef/GP_Automation_G4 | https://github.com/Abanoub-youssef/GP_CUCUMBER
 - **[postman/globals/](./postman/globals)** - Postman environment configurations  
 
 ## 🚀 How to Use This Repository
