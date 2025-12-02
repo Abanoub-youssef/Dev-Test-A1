@@ -25,7 +25,7 @@ This repository contains comprehensive testing artifacts for the Automation Exer
 | Reports | [Test_Completion_Report.docx](./Reports/Test_Completion_Report.docx) | Final test completion status |
 | Defects | [Bug_Reports_Export.xlsx](./Text_Reports/Bug_Reports_Export.xlsx) | Defect tracking and management |
 | API Tests | [API_Test_Collection.postman_collection.json](./postman/API_Test_Collection.postman_collection.json) | Postman API test collection |
-| Automation | [AutomationExercise/](./AutomationExercise) | Selenium/TestNG automation framework |
+| Automation | [AutomationExercise/](./AutomationExercise) | Selenium/TestNG automation framework | https://github.com/Abanoub-youssef/GP_Automation_G4 | https://github.com/Abanoub-youssef/GP_CUCUMBER
 | Config | [pom.xml](./pom.xml) | Maven configuration for automation framework |
 | Evidence | [Evidence/](./Evidence) | Screenshots and test evidence |
 | Traceability | [Traceability_Matrix/](./Text_Reports/Traceability_Matrix) | Requirement-to-test case mapping |
@@ -102,6 +102,7 @@ The following tree diagram represents the high-level file and directory structur
 
 # Navigate to AutomationExercise directory
 cd AutomationExercise
+https://github.com/Abanoub-youssef/GP_Automation_G4/
 
 # Run Maven tests
 mvn test
