@@ -80,12 +80,13 @@ The following tree diagram represents the high-level file and directory structur
 - **[Bug_Reports_Export.xlsx](./Text_Reports/Bug_Reports_Export.xlsx)** - Defect tracking and management  
 - **[API_Run_Report.json](./Text_Reports/API_Run_Report.json)** - API test execution results  
 
-### 🤖 Automation & API Testing
+### 🤖 Automation & API Testing & Database test cases 
 - **[pom.xml](./pom.xml)** - Maven dependencies for automation framework  
 - **[API_Test_Collection.postman_collection.json](./postman/API_Test_Collection.postman_collection.json)** - Postman API test collection  
 - **[AutomationExercise/](./AutomationExercise)** - Selenium/TestNG automation framework  -https://github.com/Abanoub-youssef/GP_Automation_G4 | https://github.com/Abanoub-youssef/GP_CUCUMBER
 - **[postman/globals/](./postman/globals)** - Postman environment configurations  
-
+- **[Database test cases ]
+  
 ## 🚀 How to Use This Repository
 
 ### Viewing Test Documentation
